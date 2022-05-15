@@ -1597,7 +1597,7 @@ UNKNOWN_MAP = 99
 
 gameModeMap = {
     "gpm_cq"    : 0,
-    "gpm_sl"    : 1,
+    "sp1"    : 1,
     "gpm_coop"  : 2,
 }
 UNKNOWN_GAMEMODE = 99
